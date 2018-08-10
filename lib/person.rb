@@ -1,5 +1,5 @@
 # person.rb
 class Person 
-  def initialize(name)
-    @name = name 
+  def initialize(job)
+    @job = job 
 end 
