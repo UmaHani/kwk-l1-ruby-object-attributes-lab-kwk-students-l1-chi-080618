@@ -1,5 +1,5 @@
 # dog.rb
 class Dog(name)
-  @name
+  @name = name 
   
 end 
